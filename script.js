@@ -1,3 +1,3 @@
 document.getElementById("btn").onclick = () => {
-    alert("Git is tracking this file!");
+    alert("Git is tracking the file!");
 };
